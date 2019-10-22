@@ -6,7 +6,7 @@ Visit our live webpage at https://www.firsttimersonly.com/
 ## Empower a First Timer today!
 We believe - and we hope you do too - that learning how to code, how to think, and how to contribute to open source can empower the next generation of coders and creators. We VALUE first time contributors and we want them to know that everyone started somewhere!
 
-We have gathered a list of resources to motivate and empower you to making that first step into becoming a contributor to the open source realm. 
+We have gathered a list of resources to motivate and empower you to making that first step into becoming a contributor to the open source realm., 
 
 If you are an OSS project owner, we have some tips for you to enable you to be instrumental in ushering a new batch of programmers into the community.
 
